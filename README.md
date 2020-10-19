@@ -2,11 +2,11 @@
 
 ![Mandelbrot](Images/Mandelbrot.bmp)
 
-### Abstract
+### Quick Start
 
 3 ways to generate 400x400 BMP image of mandelbrot set.
 
-
+The executables can be downloaded at the `Releases` of this repository.
 
 ### Execution & Sample Results
 
